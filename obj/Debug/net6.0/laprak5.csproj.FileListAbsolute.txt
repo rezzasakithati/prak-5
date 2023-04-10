@@ -1,0 +1,15 @@
+D:\pemograman\part 5\laprak5\bin\Debug\net6.0\laprak5.exe
+D:\pemograman\part 5\laprak5\bin\Debug\net6.0\laprak5.deps.json
+D:\pemograman\part 5\laprak5\bin\Debug\net6.0\laprak5.runtimeconfig.json
+D:\pemograman\part 5\laprak5\bin\Debug\net6.0\laprak5.dll
+D:\pemograman\part 5\laprak5\bin\Debug\net6.0\laprak5.pdb
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.csproj.AssemblyReference.cache
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.AssemblyInfoInputs.cache
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.AssemblyInfo.cs
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.csproj.CoreCompileInputs.cache
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.dll
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\refint\laprak5.dll
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.pdb
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\laprak5.genruntimeconfig.cache
+D:\pemograman\part 5\laprak5\obj\Debug\net6.0\ref\laprak5.dll
